@@ -10,8 +10,8 @@
         <mxCell id="2rVCdYia7xBeHSwV-7_u-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="450" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2rVCdYia7xBeHSwV-7_u-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="478" width="50" height="30" as="geometry" />
+        <mxCell id="2rVCdYia7xBeHSwV-7_u-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="473" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
